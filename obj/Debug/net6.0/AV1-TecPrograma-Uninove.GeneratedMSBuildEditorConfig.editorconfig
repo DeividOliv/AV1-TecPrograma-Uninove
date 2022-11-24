@@ -8,37 +8,37 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AV1_TecPrograma_Uninove
 build_property.RootNamespace = AV1_TecPrograma_Uninove
-build_property.ProjectDir = D:\Deivid Oliveira\T . I\GITHUB\AV1-TecPrograma-Uninove\
+build_property.ProjectDir = d:\Deivid Oliveira\T . I\GITHUB\AV1-TecPrograma-Uninove\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Deivid Oliveira\T . I\GITHUB\AV1-TecPrograma-Uninove
+build_property.MSBuildProjectDirectory = d:\Deivid Oliveira\T . I\GITHUB\AV1-TecPrograma-Uninove
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Deivid Oliveira/T . I/GITHUB/AV1-TecPrograma-Uninove/Views/Home/Index.cshtml]
+[d:/Deivid Oliveira/T . I/GITHUB/AV1-TecPrograma-Uninove/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Deivid Oliveira/T . I/GITHUB/AV1-TecPrograma-Uninove/Views/Home/Privacy.cshtml]
+[d:/Deivid Oliveira/T . I/GITHUB/AV1-TecPrograma-Uninove/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Deivid Oliveira/T . I/GITHUB/AV1-TecPrograma-Uninove/Views/Shared/Error.cshtml]
+[d:/Deivid Oliveira/T . I/GITHUB/AV1-TecPrograma-Uninove/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Deivid Oliveira/T . I/GITHUB/AV1-TecPrograma-Uninove/Views/Shared/_ValidationScriptsPartial.cshtml]
+[d:/Deivid Oliveira/T . I/GITHUB/AV1-TecPrograma-Uninove/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Deivid Oliveira/T . I/GITHUB/AV1-TecPrograma-Uninove/Views/_ViewImports.cshtml]
+[d:/Deivid Oliveira/T . I/GITHUB/AV1-TecPrograma-Uninove/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Deivid Oliveira/T . I/GITHUB/AV1-TecPrograma-Uninove/Views/_ViewStart.cshtml]
+[d:/Deivid Oliveira/T . I/GITHUB/AV1-TecPrograma-Uninove/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Deivid Oliveira/T . I/GITHUB/AV1-TecPrograma-Uninove/Views/Shared/_Layout.cshtml]
+[d:/Deivid Oliveira/T . I/GITHUB/AV1-TecPrograma-Uninove/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-tidw55dexl
